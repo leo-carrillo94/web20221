@@ -1,6 +1,10 @@
 body {
 	font-family: arial;
 }
+
+h1{
+	font-family: 'Dosis', sans-serif;
+}
 .img img {
 	border-radius: 50%;
 	width: 50%;
@@ -31,6 +35,8 @@ header {
     background-color: #a5cfe8;
     padding-bottom: 20px;
 }
+
+
 
 .presentacion__nombre {
 
